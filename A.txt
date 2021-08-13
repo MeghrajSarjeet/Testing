@@ -1,7 +1,0 @@
-Steps	Details	Status
-1st Step	Configuring our Network	No Need
-2nd Step	Install SSH using the following command	No Need
-3rd Step	Install PDSH using the following command	No Need
-4th Step	Open the .bashrc file with the following command	Done
-5th Step	Now let’s configure SSH. Let’s create a new key using the following command	Done
-6th Step	Now we need to copy the public key to the authorized_keys file with the following command	Done
